@@ -8,6 +8,3 @@ print(f"Divisao com resultado inteiro: {produto_1 // produto_2}")
 print(f"Divisao: {produto_1 / produto_2}")
 print(f"Resto da divisao: {produto_1 % produto_2}")
 print(f"Exponenciacao: {produto_1 ** produto_2}")
-
-
-
