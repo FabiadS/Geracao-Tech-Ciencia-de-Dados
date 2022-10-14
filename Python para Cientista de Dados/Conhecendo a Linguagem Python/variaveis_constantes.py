@@ -5,6 +5,6 @@ nome = "Maria"
 
 print(nome, idade)
 
-BRAZILIAN_STATES = ["SP", "RJ", "SC"] #snake_case
+BRAZILIAN_STATES = ["SP", "RJ", "SC"] #snake case
 
 print(BRAZILIAN_STATES)
