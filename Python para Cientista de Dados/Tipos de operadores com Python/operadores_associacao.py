@@ -1,4 +1,4 @@
-frutas = ["limao" "uva"]
+frutas = ["limao", "uva"]
 curso = "curso de python"
 
 print(f'A fruta "laranja" está presente em frutas: {"laranja" in frutas}')
