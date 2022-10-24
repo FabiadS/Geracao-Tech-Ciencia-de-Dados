@@ -2,6 +2,7 @@ sorteio = {1, 23}
 
 print(sorteio)  # {1, 23}
 
-sorteio.copy()
+# faz uma cópia
+sorteio_2 = sorteio.copy()
 
-print(sorteio)  # {1, 23}
+print(sorteio_2)  # {1, 23}
